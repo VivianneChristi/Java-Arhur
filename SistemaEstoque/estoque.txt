@@ -1,0 +1,15 @@
+1,Produto1,Descrição do Produto1,10,100.0
+2,Arroz,Arroz branco,20,5.0,2024-12-31
+3,Smartphone,Smartphone X,5,1500.0,MarcaX,ModeloX
+1,Produto1,Descrição do Produto1,10,100.0
+2,Arroz,Arroz branco,20,5.0,2024-12-31
+3,Smartphone,Smartphone X,5,1500.0,MarcaX,ModeloX
+1,Produto1,Descrição do Produto1,10,100.0
+2,Arroz,Arroz branco,20,5.0,2024-12-31
+3,Smartphone,Smartphone X,5,1500.0,MarcaX,ModeloX
+1,Produto1,Descrição do Produto1,10,100.0
+2,Arroz,Arroz branco,20,5.0,2024-12-31
+3,Smartphone,Smartphone X,5,1500.0,MarcaX,ModeloX
+1,Produto1,Descrição do Produto1,10,100.0
+2,Arroz,Arroz branco,20,5.0,2024-12-31
+3,Smartphone,Smartphone X,5,1500.0,MarcaX,ModeloX
